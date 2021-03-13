@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 - email me on rishavkumar9713@gmail.com
 - Instagram: @officialrishav9713 ( https://instagram.com/officialrishav9713 )
-- Whatsapp me: 7004652649
 
 <!---
 rishav9713/rishav9713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
