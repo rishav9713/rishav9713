@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning bug hunting methodology and cyber security and report
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
-- email me on rishavkumar9713@gmail.com
+- Email me on rishavkumar9713@gmail.com
+- Let's Connect LinkedIn id: ( https://www.linkedin.com/in/rishav-kumar-b64298162/ )
 - Instagram: @officialrishav9713 ( https://instagram.com/officialrishav9713 )
 
 <!---
