@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishav9713&show_icons=true&theme=radical)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav9713&langs_count=3&hide_title=true&hide_border=true&theme=radical" />
 </a>
 
